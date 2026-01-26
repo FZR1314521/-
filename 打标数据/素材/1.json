@@ -1,0 +1,562 @@
+{
+  "version": "3.3.2",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "破坏者",
+      "score": null,
+      "points": [
+        [
+          633.6291666666666,
+          158.13333333333333
+        ],
+        [
+          813.7041666666668,
+          158.13333333333333
+        ],
+        [
+          813.7041666666668,
+          334.53333333333336
+        ],
+        [
+          633.6291666666666,
+          334.53333333333336
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "破坏者",
+      "score": null,
+      "points": [
+        [
+          821.2836008025392,
+          158.9502674692057
+        ],
+        [
+          992.7163991974609,
+          158.9502674692057
+        ],
+        [
+          992.7163991974609,
+          330.3830658641277
+        ],
+        [
+          821.2836008025392,
+          330.3830658641277
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "破坏者",
+      "score": null,
+      "points": [
+        [
+          1009.6666666666667,
+          158.79166666666663
+        ],
+        [
+          1177.6666666666667,
+          158.79166666666663
+        ],
+        [
+          1177.6666666666667,
+          335.54166666666674
+        ],
+        [
+          1009.6666666666667,
+          335.54166666666674
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "破坏者",
+      "score": null,
+      "points": [
+        [
+          638.6284263125,
+          349.69866743098953
+        ],
+        [
+          805.3715736875,
+          349.69866743098953
+        ],
+        [
+          805.3715736875,
+          512.9679992356772
+        ],
+        [
+          638.6284263125,
+          512.9679992356772
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "破坏者",
+      "score": null,
+      "points": [
+        [
+          818.8854166666666,
+          346.7229166666666
+        ],
+        [
+          993.4479166666667,
+          346.7229166666666
+        ],
+        [
+          993.4479166666667,
+          517.6104166666668
+        ],
+        [
+          818.8854166666666,
+          517.6104166666668
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "破坏者",
+      "score": null,
+      "points": [
+        [
+          1009.1416666666667,
+          348.38958333333335
+        ],
+        [
+          1178.1916666666668,
+          348.38958333333335
+        ],
+        [
+          1178.1916666666668,
+          519.2770833333334
+        ],
+        [
+          1009.1416666666667,
+          519.2770833333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "自修复磁暴塔",
+      "score": null,
+      "points": [
+        [
+          636.2916666666667,
+          4.624999999999972
+        ],
+        [
+          806.0416666666666,
+          4.624999999999972
+        ],
+        [
+          806.0416666666666,
+          146.37499999999997
+        ],
+        [
+          636.2916666666667,
+          146.37499999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "自修复磁暴塔",
+      "score": null,
+      "points": [
+        [
+          261.9625000000001,
+          344.88541666666663
+        ],
+        [
+          442.0375,
+          344.88541666666663
+        ],
+        [
+          442.0375,
+          519.4479166666667
+        ],
+        [
+          261.9625000000001,
+          519.4479166666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "自修复磁暴塔",
+      "score": null,
+      "points": [
+        [
+          450.55208333333337,
+          346.8083333333333
+        ],
+        [
+          625.1145833333334,
+          346.8083333333333
+        ],
+        [
+          625.1145833333334,
+          515.8583333333333
+        ],
+        [
+          450.55208333333337,
+          515.8583333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "防空导弹",
+      "score": null,
+      "points": [
+        [
+          263.6666666666667,
+          548.0
+        ],
+        [
+          333.6666666666667,
+          548.0
+        ],
+        [
+          333.6666666666667,
+          601.3333333333334
+        ],
+        [
+          263.6666666666667,
+          601.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "防空导弹",
+      "score": null,
+      "points": [
+        [
+          362.0,
+          548.0
+        ],
+        [
+          433.6666666666667,
+          548.0
+        ],
+        [
+          433.6666666666667,
+          601.3333333333334
+        ],
+        [
+          362.0,
+          601.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "防空导弹",
+      "score": null,
+      "points": [
+        [
+          820.3333333333334,
+          79.66666666666666
+        ],
+        [
+          895.3333333333334,
+          79.66666666666666
+        ],
+        [
+          895.3333333333334,
+          139.66666666666666
+        ],
+        [
+          820.3333333333334,
+          139.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "防空导弹",
+      "score": null,
+      "points": [
+        [
+          1098.6666666666667,
+          77.99999999999997
+        ],
+        [
+          1175.3333333333335,
+          77.99999999999997
+        ],
+        [
+          1175.3333333333335,
+          142.99999999999997
+        ],
+        [
+          1098.6666666666667,
+          142.99999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "防空导弹",
+      "score": null,
+      "points": [
+        [
+          1010.3333333333334,
+          6.333333333333314
+        ],
+        [
+          1082.0,
+          6.333333333333314
+        ],
+        [
+          1082.0,
+          47.99999999999997
+        ],
+        [
+          1010.3333333333334,
+          47.99999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "防空导弹",
+      "score": null,
+      "points": [
+        [
+          450.33333333333337,
+          548.0
+        ],
+        [
+          527.0,
+          548.0
+        ],
+        [
+          527.0,
+          598.0
+        ],
+        [
+          450.33333333333337,
+          598.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": true,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "空缺",
+      "score": null,
+      "points": [
+        [
+          902.0,
+          523.0
+        ],
+        [
+          1007.0,
+          523.0
+        ],
+        [
+          1007.0,
+          615.0
+        ],
+        [
+          902.0,
+          615.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "空缺",
+      "score": null,
+      "points": [
+        [
+          995.3333333333334,
+          524.6666666666667
+        ],
+        [
+          1102.0,
+          524.6666666666667
+        ],
+        [
+          1102.0,
+          615.0
+        ],
+        [
+          995.3333333333334,
+          615.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "空缺",
+      "score": null,
+      "points": [
+        [
+          995.3333333333334,
+          57.99999999999997
+        ],
+        [
+          1103.6666666666667,
+          57.99999999999997
+        ],
+        [
+          1103.6666666666667,
+          161.33333333333331
+        ],
+        [
+          995.3333333333334,
+          161.33333333333331
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "修理站",
+      "score": null,
+      "points": [
+        [
+          910.3333333333334,
+          66.33333333333331
+        ],
+        [
+          995.3333333333334,
+          66.33333333333331
+        ],
+        [
+          995.3333333333334,
+          151.33333333333331
+        ],
+        [
+          910.3333333333334,
+          151.33333333333331
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1.png",
+  "imageData": null,
+  "imageHeight": 616,
+  "imageWidth": 1384,
+  "description": ""
+}

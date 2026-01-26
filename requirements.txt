@@ -1,0 +1,26 @@
+# 项目依赖
+# 键鼠操作库
+pynput
+pyautogui
+keyboard
+
+# 窗口操作库
+pygetwindow
+Pillow
+pywin32
+
+# YOLO模型库
+ultralytics
+opencv-python
+
+# 其他辅助库
+numpy
+pathlib
+# GUI库
+PyQt6
+# GUI库 (tkinter是Python标准库，无需单独安装)
+
+# 开发工具
+pytest
+flake8
+black
