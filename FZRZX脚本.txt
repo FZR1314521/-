@@ -1,0 +1,7 @@
+=@echo off
+
+:: 以管理员权限运行Python脚本（指定完整路径）
+powershell -Command "Start-Process -FilePath 'C:\Python39\python.exe' -ArgumentList 'c:\Users\ciallo~\Desktop\视觉脚本\FZRZX.py' -Verb RunAs"
+
+:: 暂停以查看执行结果
+pause
