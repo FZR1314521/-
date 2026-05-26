@@ -1,0 +1,52 @@
+# 依赖文件和包
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# 日志文件
+logs/*.log
+*.log
+
+# 测试文件
+pytest_cache/
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
+.env/
+
+# 模型文件（如果模型文件较大，建议使用Git LFS或单独下载）
+# src/models/*.pt
+
+# 临时文件
+*.tmp
+*.temp
+
+# 数据文件（如果数据文件较大，建议不纳入版本控制）
+# data/
+
+# 打标数据（如果数据量较大，建议不纳入版本控制）
+# 打标数据/
+
+# 配置文件（如果包含敏感信息）
+# src/config/*.py
+
+# 其他临时文件
+*.bak
+*.old
+*.backup
